@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/JehadNasser/array-splitter-chunks.svg?branch=master)](https://travis-ci.org/JehadNasser/array-splitter-chunks)
+
 Array splitter into chunks
 =========
 
