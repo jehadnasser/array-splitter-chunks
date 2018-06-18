@@ -1,0 +1,29 @@
+{
+  "name": "array-splitter-chunks",
+  "version": "1.0.0",
+  "description": "Split an array into n-size chunks",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JehadNasser/array-splitter-chunks.git"
+  },
+  "keywords": [
+    "array-splitter",
+    "array-chunks",
+    "array-into-chunks",
+    "sub-array"
+  ],
+  "author": "Jehad Nasser <jehadhnasser@gmail.com> (http://www.jehadnasser.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JehadNasser/array-splitter-chunks/issues"
+  },
+  "homepage": "https://github.com/JehadNasser/array-splitter-chunks#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
