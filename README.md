@@ -16,7 +16,7 @@ A small library will Split array into n-size chunks
 
     arrayChunks(array, 2, function(err, chunks) {
       console.log(chunks);
-      `// OUTPUT: [[1, 2], [3, 4], [5, 6], [7, 8], [9]]`
+      // OUTPUT: [[1, 2], [3, 4], [5, 6], [7, 8], [9]]
     });
 
 ## Tests
