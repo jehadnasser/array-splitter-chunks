@@ -1,7 +1,6 @@
-[![Build Status](https://travis-ci.org/JehadNasser/array-splitter-chunks.svg?branch=master)](https://travis-ci.org/JehadNasser/array-splitter-chunks)
-
 Array splitter into chunks
 =========
+[![Build Status](https://travis-ci.org/JehadNasser/array-splitter-chunks.svg?branch=master)](https://travis-ci.org/JehadNasser/array-splitter-chunks)
 
 A small library will Split array into n-size chunks
 
