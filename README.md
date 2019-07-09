@@ -2,7 +2,9 @@ Array splitter into chunks
 =========
 [![Build Status](https://travis-ci.org/jehadnasser/array-splitter-chunks.svg?branch=master)](https://travis-ci.org/jehadnasser/array-splitter-chunks)
 
-A small library will Split array into n-size chunks
+A small library will Split array into n-size chunks.
+
+Published on [npmjs](https://www.npmjs.com/package/array-splitter-chunks).
 
 ## Installation
 
